@@ -2819,3 +2819,37 @@ button {
     align-items: flex-start;
   }
 }
+
+
+
+
+/*logo css*/
+.logo-box img {
+  height: 80px !important;
+}
+
+/*font*/
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.section-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 1.3;
+
+  background: linear-gradient(90deg, #5a3e2b, #8b5e3c);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.whatsapp-title {
+  font-family: 'DM Serif Display', serif !important;
+
+  background: linear-gradient(90deg, #ffffff, #e6e6e6) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+
+  color: transparent !important; /* VERY IMPORTANT */
+}

@@ -815,7 +815,7 @@
       "</section>" +
       '<section class="section">' +
       '  <div class="container">' +
-      '    <div class="section-heading"><p class="eyebrow">Category Grid</p><h2 class="section-title">Browse collections the way shoppers do on top ecommerce sites.</h2></div>' +
+      '    <div class="section-heading"><p class="eyebrow">Category Grid</p><h2 class="section-title">Find the perfect pieces for your space.</h2></div>' +
       '    <div class="grid grid-4">' +
       categories
         .map(function (category) {
@@ -872,7 +872,7 @@
       '    <div class="hero-grid">' +
       '      <div>' +
       '        <p class="eyebrow" style="color:rgba(255,255,255,0.75);">WhatsApp Banner</p>' +
-      '        <h2 class="section-title" style="color:#fff;">Talk to our furniture expert.</h2>' +
+      '        <h2 class="section-title whatsapp-title">Talk to our furniture expert.</h2>' +
       '        <p class="section-subtitle" style="color:rgba(255,255,255,0.82);">Share a product link, a rough layout or just your space type. We can help with finish suggestions, delivery estimates and quotation support on WhatsApp.</p>' +
       '        <div class="stack-actions">' +
       '          <a class="btn btn-green" href="' + DATA.buildWhatsAppLink(DATA.siteConfig.whatsappNumber) + '" target="_blank" rel="noreferrer">Open WhatsApp Chat</a>' +
